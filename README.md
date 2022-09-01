@@ -37,10 +37,10 @@ https://realestate.usnews.com/real-estate/articles/does-the-new-whole-foods-in-y
 # Results
 ## Machine Learning: 
 ### Machine Model Results 2015
-![Machine_model_results_2015.png](Images\Machine_model_results_2015.png)
+![Machine_model_results_2015.png](Images/Machine_model_results_2015.png)
 
 ### Machine Model Results 2019
-![Machine_model_results_2019.png](Images\Machine_model_results_2019.png)
+![Machine_model_results_2019.png](Images/Machine_model_results_2019.png)
 
 ## Data Visualization:
 - Organic grocery stores: 
@@ -53,7 +53,7 @@ https://realestate.usnews.com/real-estate/articles/does-the-new-whole-foods-in-y
   - The median house value for these zip codes is $850K
 
 ### The median house value next to more organic grocery stores is double than the house value next to location with more fast food.  
-![Data_Visualization.png](Images\Data_Visualization.png)
+![Data_Visualization.png](Images/Data_Visualization.png)
 
 [Housing Prices and Food Access website](https://yahel-epel.github.io/Housing_price_and_food_access_html/)
 
